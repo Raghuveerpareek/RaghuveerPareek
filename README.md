@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Raghuveerpareek/RaghuveerPareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Raghuveer Pareek**, a Software Engineer with a passion for data science and game development.
 
-Here are some ideas to get you started:
+### About Me
+I'm a curious developer with a strong focus on creating and learning as much as I can. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+* **BLOCK-ED** A try at a little arcade game built using unity and c#. [https://drive.google.com/file/d/1LdrqqRvGUmGTl7o4lkDA1BxvC4oRD8E4/view?usp=sharing]
+
+### Skills
+* **Languages:** JavaScript, Python, HTML, CSS, Java, C#
+* **Databases:** PostgreSQL
+
+### Contact
+* **Email:** raghuveer.pareek31@gmail.com
+* 
+### Fun Facts
+* I love coffee, music and reading.
